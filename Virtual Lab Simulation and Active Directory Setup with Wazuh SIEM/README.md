@@ -21,7 +21,6 @@ This project demonstrates the setup of a virtual cybersecurity lab simulating a 
 ---
 
 ## Lab Architecture
-'''
                             +--------------------+
                             |  Ubuntu (Wazuh SIEM)|
                             |  Manager + Agents   |
@@ -32,7 +31,7 @@ This project demonstrates the setup of a virtual cybersecurity lab simulating a 
 | Windows Server |<------>|  Windows 10 Pro      |
 | (AD + DNS)     |        |  Domain-Joined Client|
 +----------------+        +----------------------+
-'''
+
          Active Directory Domain: lab.local
 
 ## Components:
