@@ -20,7 +20,7 @@ Some types of projects included:
 To clone this repository:
 
 ```bash
-git clone https://github.com/your-username/cybersecurity-projects.git
+git clone https://github.com/blvckie147/projects.git
 cd cybersecurity-projects
 ```
 
