@@ -8,7 +8,7 @@
 2. Attempted to start Juice Shop container:
    ```bash
    docker run -d --name juice-shop -p 3000:3000 bkimminich/juice-shop
- ```
+    ```
 
 Encountered Cannot connect to the Docker daemon → determined Docker not installed.
 
