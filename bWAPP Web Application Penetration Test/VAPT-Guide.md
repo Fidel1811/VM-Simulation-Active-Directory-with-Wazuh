@@ -132,3 +132,29 @@ In the input box, enter:
 - Intercept, analyze, and forward to see how data flows.
 
 - Take screenshots of intercepted traffic.
+
+## Reporting
+
+- Structure your report like this:
+
+- Scope – bWAPP application, running locally.
+
+- Executive Summary – State overall findings + business impact.
+
+- Tools Used – Kali Linux, Burp Suite, Docker, Browser.
+
+- Methodology – Recon → Identification → Exploitation → Documentation.
+
+- Vulnerabilities Identified – SQLi, XSS, OS Injection, CSRF.
+
+- Screenshots of Exploitation – Insert captures for proof.
+
+- Remediation Suggestions:
+
+SQLi: Use parameterized queries.
+
+XSS: Encode/sanitize input/output.
+
+Command Injection: Use safe API calls, input validation.
+
+CSRF: Implement CSRF tokens + session validation.
