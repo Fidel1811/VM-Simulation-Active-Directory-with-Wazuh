@@ -21,7 +21,7 @@ To clone this repository:
 
 ```bash
 git clone https://github.com/blvckie147/Projects.git
-cd cybersecurity-projects
+cd projects
 ```
 
 
